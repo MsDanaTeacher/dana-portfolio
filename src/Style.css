@@ -1,0 +1,4 @@
+.mobile-nav {
+    @apply block md:hidden fixed top-10 py-2 w-full h-full bg-gray-900 duration-500;
+    background-color: rgb(255 255 255/ var(--tw-bg-opacity));
+} 

@@ -1,0 +1,46 @@
+/* color */
+.bg-primary {
+  background: #fff;
+}
+
+.bg-secondery {
+  background: #fff;
+}
+
+.bg-accent {
+  background: #7477FF;
+}
+
+.text-accent {
+  color: black;
+} 
+
+nav li a {
+    @apply px-4 py-5 text-lg;
+    color: black;
+}
+
+nav li a:hover{
+    text-decoration: underline;
+}
+
+
+/* nav li a:active {
+  color: blue;
+} */
+
+/* 
+nav li a[tabindex]:focus {
+  color:blue;
+  outline: none;
+} */
+
+/* hero */
+h1 {
+  font-family: 'Lato', sans-serif;
+  line-height: 1.5 !important;
+  color: black;
+}
+
+html{scroll-behavior:smooth}
+
