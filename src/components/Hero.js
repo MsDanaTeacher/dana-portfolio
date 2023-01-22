@@ -18,7 +18,7 @@ export default function Hero() {
           
           </p>
 
-          <a href="/#projects" className=' btn bg-accent  border-2 border-[#7477FF] text-white px-6 py-3 hover:bg-transparent hover:text-black'>
+          <a href="/#projects" className=' btn bg-accent  border-2 border-[#7477FF] text-white px-6 py-3 hover:bg-transparent hover:text-black animate-pulse'>
             See Projects
           </a>
         </div>
