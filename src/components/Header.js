@@ -25,7 +25,7 @@ export default function Header() {
                     <a href="/#contact">Contact</a>
                 </li>
                 <li>
-                    <a href="https://drive.google.com/file/d/1_wR5hqToAAHfA9nEwnvywWfn8vlNHI5e/view?usp=sharing" without rel="noreferrer">
+                    <a href="https://drive.google.com/file/d/1_wR5hqToAAHfA9nEwnvywWfn8vlNHI5e/view?usp=sharing" target='_blank' without rel="noreferrer">
                         Resume
                     </a>
                 </li>
@@ -36,16 +36,16 @@ export default function Header() {
         <nav className={!toggle ? "mobile-nav left-[-100%]" : "mobile-nav left-0"} style={{fontFamily: "'Lato', sans-serif"}}>
             <ul className="flex flex-col">
                 <li>
-                    <a href="/#about">About</a>
+                    <a href="/#about" onClick={handleToggle}>About</a>
                 </li>
                 <li>
-                    <a href="/#projects">Projects</a>
+                    <a href="/#projects" onClick={handleToggle}>Projects</a>
                 </li>
                 <li>
-                    <a href="/#contact">Contact</a>
+                    <a href="/#contact" onClick={handleToggle}>Contact</a>
                 </li>
                 <li>
-                    <a href="/#resume">Resume</a>
+                    <a href="https://drive.google.com/file/d/1_wR5hqToAAHfA9nEwnvywWfn8vlNHI5e/view?usp=sharing" target="_blank" onClick={handleToggle}>Resume</a>
                 </li>
             </ul>
         </nav>
