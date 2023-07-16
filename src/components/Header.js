@@ -25,7 +25,7 @@ export default function Header() {
                     <a href="/#contact">Contact</a>
                 </li>
                 <li>
-                    <a href="https://drive.google.com/file/d/19pdCin0JXQtOnM5OmcrgSfkNlVFia0qR/view?usp=sharing" target="_blank" without rel="noreferrer">
+                    <a href="https://drive.google.com/file/d/1_wR5hqToAAHfA9nEwnvywWfn8vlNHI5e/view?usp=sharing" without rel="noreferrer">
                         Resume
                     </a>
                 </li>
