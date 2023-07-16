@@ -1,4 +1,15 @@
 .mobile-nav {
-    @apply block md:hidden fixed top-10 py-2 w-full h-full bg-gray-900 duration-500;
-    background-color: rgb(255 255 255/ var(--tw-bg-opacity));
-} 
+    position: fixed;
+    inset: 0;
+    background-color: #fff;
+    color: #fff;
+    transform: translateX(-100%);
+    transition-property: transform;
+    transition-duration: 500ms;
+    transition-timing-function: ease-in-out;
+    z-index: 50;
+  }
+  
+  .mobile-nav.left-0 {
+    transform: translateX(0);
+  }

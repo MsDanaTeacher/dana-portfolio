@@ -25,7 +25,7 @@ export default function Header() {
                     <a href="/#contact">Contact</a>
                 </li>
                 <li>
-                    <a href="https://drive.google.com/file/d/1_wR5hqToAAHfA9nEwnvywWfn8vlNHI5e/view?usp=sharing" target='_blank' without rel="noreferrer">
+                    <a href="https://drive.google.com/file/d/1_wR5hqToAAHfA9nEwnvywWfn8vlNHI5e/view?usp=sharing" target="_blank" without rel="noreferrer">
                         Resume
                     </a>
                 </li>
@@ -45,7 +45,7 @@ export default function Header() {
                     <a href="/#contact" onClick={handleToggle}>Contact</a>
                 </li>
                 <li>
-                    <a href="https://drive.google.com/file/d/1_wR5hqToAAHfA9nEwnvywWfn8vlNHI5e/view?usp=sharing" target="_blank" onClick={handleToggle}>Resume</a>
+                    <a href="https://drive.google.com/file/d/1_wR5hqToAAHfA9nEwnvywWfn8vlNHI5e/view?usp=sharing" target='_blank'>Resume</a>
                 </li>
             </ul>
         </nav>

@@ -88,13 +88,7 @@ export default function Projects() {
                       Figma
                     </a>
 
-                    <a
-                    href={project.demo}
-                    className="px-5 py-2 bg-[#7477FF] text-white hover:text-black hover:bg-[#fff] border-2 border-[#7477FF] font-bold"
-                    target="_blank"
-                    >
-                      Demo
-                    </a>
+                   
                 </div>
               </div>
             </div>
