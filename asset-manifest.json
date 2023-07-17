@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.db52716e.css",
-    "main.js": "/static/js/main.28ac8058.js",
-    "static/js/787.633816a4.chunk.js": "/static/js/787.633816a4.chunk.js",
-    "static/media/abanhackathon.png": "/static/media/abanhackathon.64b7ff81254b1d7b004a.png",
-    "static/media/portfoliopictwo.png": "/static/media/portfoliopictwo.343f65d6391b13d74c82.png",
-    "static/media/portfoliopic.png": "/static/media/portfoliopic.cbf82f63cb47ae585f73.png",
-    "static/media/artproject.png": "/static/media/artproject.2bd78255a60a3954a743.png",
-    "static/media/womenstem.png": "/static/media/womenstem.aab83bfd56dcad6246dd.png",
-    "static/media/iseeme.png": "/static/media/iseeme.c12fe810d7a0bd9e3fc0.png",
-    "index.html": "/index.html",
-    "main.db52716e.css.map": "/static/css/main.db52716e.css.map",
-    "main.28ac8058.js.map": "/static/js/main.28ac8058.js.map",
-    "787.633816a4.chunk.js.map": "/static/js/787.633816a4.chunk.js.map"
+    "main.css": "/dana-portfolio/static/css/main.db52716e.css",
+    "main.js": "/dana-portfolio/static/js/main.f84eb69a.js",
+    "static/js/787.633816a4.chunk.js": "/dana-portfolio/static/js/787.633816a4.chunk.js",
+    "static/media/abanhackathon.png": "/dana-portfolio/static/media/abanhackathon.64b7ff81254b1d7b004a.png",
+    "static/media/portfoliopictwo.png": "/dana-portfolio/static/media/portfoliopictwo.343f65d6391b13d74c82.png",
+    "static/media/portfoliopic.png": "/dana-portfolio/static/media/portfoliopic.cbf82f63cb47ae585f73.png",
+    "static/media/artproject.png": "/dana-portfolio/static/media/artproject.2bd78255a60a3954a743.png",
+    "static/media/womenstem.png": "/dana-portfolio/static/media/womenstem.aab83bfd56dcad6246dd.png",
+    "static/media/iseeme.png": "/dana-portfolio/static/media/iseeme.c12fe810d7a0bd9e3fc0.png",
+    "index.html": "/dana-portfolio/index.html",
+    "main.db52716e.css.map": "/dana-portfolio/static/css/main.db52716e.css.map",
+    "main.f84eb69a.js.map": "/dana-portfolio/static/js/main.f84eb69a.js.map",
+    "787.633816a4.chunk.js.map": "/dana-portfolio/static/js/787.633816a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db52716e.css",
-    "static/js/main.28ac8058.js"
+    "static/js/main.f84eb69a.js"
   ]
 }
